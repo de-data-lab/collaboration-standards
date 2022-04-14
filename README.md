@@ -9,7 +9,7 @@ We value social impact. One way to achieve this goal is by making our codebase p
 
 ## No direct commits to the main branch—use pull requests instead
 
-Our most up-to-date code lives on the main branch. We want to keep the main branch as bug-free as possible. To do so we want to avoid directly committing to the main branch. Direct commits to the main branch obscures the purpose of changes and ultimately hinders collaboration.
+Our most up-to-date code lives on the main branch. We want to keep the main branch as bug-free as possible. To do so we want to avoid directly committing to the main branch. Direct commits to the main branch obscure the purpose of changes and ultimately hinders collaboration.
 
 When starting a brand-new repository, you can protect the main branch in the repository's settings ([GitHub Docs]( https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches)). It's also a good practice to check "Include administrators" so that admins also cannot accidentally make direct commits.
 
