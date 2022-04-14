@@ -25,7 +25,7 @@ Commit often and commit early. A good commit will generally look like the follow
 1. The commit message starts with an active verb (e.g., "Add a hierarchical model")
 2. The chunks of commits do one thing
 
-If you are having a hard time to think about a concise commit message, your may be too complex. Try breaking it down to multiple commits.
+If you are having a hard time thinking about a concise commit message, your may be too complex. Try breaking it down to multiple commits.
 
 ## Pull requests
 
