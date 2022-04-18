@@ -1,5 +1,5 @@
 # collaboration-standards
-This repo is a place for developing collaboration standards for the members of Data Innovation Lab
+This repo is a living document to develop collaboration standards for the members of Data Innovation Lab
 
 # How we use GitHub
 
