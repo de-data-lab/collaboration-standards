@@ -15,8 +15,18 @@ When starting a brand-new repository, you can protect the main branch in the rep
 
 ## Branching
 
-Include your name, and an issue number to the branch name. Separate your name with a slash `/`. (e.g., `nami/10-fix-dropdown`)
-Create one branch for each feature/fix that you are working on. If the work is too big, consider breaking it down into small pieces, and creating a branch for each.
+We keep the most up-to-date code on the `main` branch. A starting project will have two kinds of branches:
+1. The `main` branch
+2. Development branches
+
+Create a separate branch for each feature/fix that you are working on. If the work is too big, consider breaking it down into small pieces, and creating a branch for each.
+Name your development branch with your name and an issue number, separated by `/`. (e.g., `nami/10-fix-dropdown`)
+
+When the project is ready for production, we treat the `main` branch as the production branch. Then, we will add `staging` branches to review and test any new changes. At this point, the project will have three kinds of branches:
+1. The `main` branch - This is the production branch.
+2. Staging branches (e.g., `staging-1`) - These are the branches we use to test any new features, before merging into main
+3. Development branches
+
 
 ## Committing 
 
