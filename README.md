@@ -9,7 +9,11 @@ We value social impact. One way to achieve this goal is by making our codebase p
 
 ## Choose a license
 
-Choosing a license allows others to use our work. We choose licesnse based on two goals: (a) We want to allow anyone to use our work, and (b) We also want to ask others using our work to keep their work open. 
+Choosing a license allows others to use our work. We choose licesnse based on two goals:
+
+1. We want to allow anyone to use our work
+2. We want to ask people using our work to keep our work open. 
+
 We think [GNU Affero General Public License v3.0 (AGPLv3)](https://choosealicense.com/licenses/agpl-3.0/) achieves these goals. With this license, we can allow anyone to freely use our code as long as the source code stays open. For any non-code materials, consider using [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## No direct commits to the main branch—use pull requests instead
