@@ -26,7 +26,7 @@ Create a README file that describes the project. The README will also include th
 
 This repo was created by us, the Data Innovation Lab at Tech Impact. Our team uses advanced data analytics 
 and artificial intelligence to help organizations solve problems that will make our communities a better place. 
-Visit [our website](https://techimpact.org/services/data-lab/) or email us to get in touch.
+Visit [our website](https://techimpact.org/services/data-lab/) or [email us](mailto:labprojects@techimpact.org) to get in touch.
 ```
 
 
