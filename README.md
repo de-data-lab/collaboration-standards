@@ -16,6 +16,20 @@ Choosing a license allows others to use our work. We choose licesnse based on tw
 
 We think [GNU Affero General Public License v3.0 (AGPLv3)](https://choosealicense.com/licenses/agpl-3.0/) achieves these goals. With this license, we can allow anyone to freely use our code as long as the source code stays open. For any non-code materials, consider using [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+## Add a README file
+
+Create a README file that describes the project. The README will also include the description of who we are:
+
+
+```
+### About Data Innovation Lab
+
+This repo was created by us, the Data Innovation Lab at Tech Impact. Our team uses advanced data analytics 
+and artificial intelligence to help organizations solve problems that will make our communities a better place. 
+Visit [our website](https://techimpact.org/services/data-lab/) or [email us](mailto:labprojects@techimpact.org) to get in touch.
+```
+
+
 ## No direct commits to the main branch—use pull requests instead
 
 Our most up-to-date code lives on the main branch. We want to keep the main branch as bug-free as possible. To do so we want to avoid directly committing to the main branch. Direct commits to the main branch obscure the purpose of changes and ultimately hinders collaboration.
@@ -57,6 +71,5 @@ Avoid submitting a pull request without a description.
 4. Details of making changes, so that others can understand what you did. Screenshots are also great tools to convey information. 
 
 Tips: You can mention an issue that you are fixing, and use a keyword to fix the issue when the pull request is closed. ([GitHub Docs][1])
-
 
 [1]: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
